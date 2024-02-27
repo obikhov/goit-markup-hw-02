@@ -177,5 +177,34 @@ color: #2e2f42;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+
+}
+.section-our-team{
+  background-color: #F4F4FD;
+}
+.section-team-logo{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2E2F42;
+
+}
+.section-team-list{
+  background-color:#FFFFFF;
+}
+.team-name{
+  font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+
+}
+.team-paragraf{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   
 }
