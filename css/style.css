@@ -124,6 +124,7 @@ text-align: left;
   margin: 1440,600,72;
   
   
+  
 
 }
 .ssection-logo{
@@ -131,19 +132,19 @@ text-align: left;
   font-family:'Times New Roman', Times, serif;
 font-size: 56px;
 font-weight: 700;
-line-height: 60px;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;
 
 }
 .section-click{
-  background-color: #4D5AE5;
-  margin-top: 428px;
-  margin-left: 636px;
-  border-radius: 4px;
-  padding: 16px,32px,16px,32px
- 
+  font-family:'Times New Roman', Times, serif;
+  font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff
 }
 .header-list{
   color: #2E2F42 ;
@@ -153,4 +154,14 @@ color: #FFFFFF;
   line-height: 1.5;
   letter-spacing: 0.02em;
   
+}
+.section-strategy-list{
+  font-family:"Raleway",sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42 ;
+
+
 }
