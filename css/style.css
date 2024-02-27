@@ -85,30 +85,18 @@ background-color:#FFFFFF;
 color: #434455;
 }
 .header-logo{
-  font-family:"Raleway",sans-serif;
-  font-size: 18px;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
+  font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform:uppercase;
-  text-align: left;
-  text-decoration: none;
-  color: #4d5ae5;
+  text-transform: uppercase;
+  color:#4d5ae5;
 }
 .logo-color{
   color: #2e2f42;  
   
 }
-
-
-.header-list{
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  text-align: left;
-  }
   .aheader-adres-list{
 color: #2E2F42;
 font-family:'Times New Roman', Times, serif;
@@ -162,6 +150,32 @@ color: #ffffff
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42 ;
+}
+.header-list-studio{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
 
+}
+.header-adres{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.section-strategy-list{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 
+}
+.section-strategy-paragraf{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  
 }
