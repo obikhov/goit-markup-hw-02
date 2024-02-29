@@ -186,23 +186,21 @@ button:focus{
   color: #2e2f42 ;
 }
 
-.header-list-studio{
+.list-studio-header{
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color:#2e2f42;
+color: #2e2f42;
 
 }
-.header-list-studio:hover{
+.list-studio-header:hover{
   color:  #404bbf
 }
-.header-list-studio:focus{
+.list-studio-header:focus{
   color:  #404bbf
 }
-.header-list-studio{
-  color:  #404bbf
-}
+
 
 .section-strategy-list{
 font-weight: 500;
