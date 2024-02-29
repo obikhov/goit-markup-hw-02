@@ -100,10 +100,10 @@ color: #434455;
   color:#4d5ae5;
 }
 .header-logo:hover{
-background-color: #404bbf;
+color: #404bbf;
 }
 .header-logo:focus{
-background-color: #404bbf;
+color: #404bbf;
 }
 .logo-color{
   color: #2e2f42;  
@@ -129,10 +129,10 @@ text-align: left;
     color: #434455;
   }
   .header-adres:hover{
-    background-color: #404BBF;
+    color: #404BBF;
    }
    .header-adres:focus{
-     background-color: #404BBF;
+    color: #404BBF;
    }
 .section-title{
   background: #2E2F42;
@@ -228,7 +228,7 @@ color: #2e2f42;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2E2F42;
-  display: none;
+  
 
 }
 .section-team-list{
