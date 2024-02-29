@@ -78,6 +78,12 @@
     font-weight: weight;
     font-style:normal;
   }
+  a{
+    text-decoration: none;
+  }
+  ul{
+    list-style: none;
+  }
   
 .body{
     font-family: "Roboto", sans-serif;
